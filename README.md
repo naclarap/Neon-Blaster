@@ -1,5 +1,7 @@
 # Neon Blaster
 
+🎮 **[Jogar agora](https://naclarap.github.io/Neon-Blaster/)**
+
 Um jogo arcade de nave em React + Canvas, com estética neon/cyberpunk: partículas de explosão, combos, power-ups, som procedural (Web Audio API, sem arquivos externos) e recorde salvo no navegador.
 
 ## Como jogar
