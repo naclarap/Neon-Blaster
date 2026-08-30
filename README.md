@@ -18,18 +18,6 @@ Destrua inimigos para ganhar pontos e combos. De vez em quando eles soltam power
 
 O jogo fica mais difícil a cada nível: inimigos mais rápidos, mais variados e com mais vida.
 
-## Rodando localmente
+## Hospedado no Github Pages
 
-```bash
-npm install
-npm run dev
-```
-
-Abra `http://localhost:5173`.
-
-## Build de produção
-
-```bash
-npm run build
-npm run preview
-```
+Abra `https://naclarap.github.io/Neon-Blaster/`.
