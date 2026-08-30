@@ -20,4 +20,4 @@ O jogo fica mais difícil a cada nível: inimigos mais rápidos, mais variados e
 
 ## Hospedado no Github Pages
 
-Abra `https://naclarap.github.io/Neon-Blaster/` ou clique em 🎮 **[Jogar agora](https://naclarap.github.io/Neon-Blaster/)**.
+🎮 **[Jogar agora](https://naclarap.github.io/Neon-Blaster/)**.
